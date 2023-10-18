@@ -1,5 +1,5 @@
 [project]
-name = "my_test_lib"
+name = "my_test_lib_591"
 version = "0.0.1"
 authors = [{ name = "Aleksei Morozov", email = "morozov6420@gmail.com" }]
 description = "My test lib"
